@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".ActivityStory">
+    <LinearLayout
+        android:id="@+id/ll_seek_bar"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <SeekBar
+            android:id="@+id/story_seek_bar"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:max="5000"
+            android:progress="0"
+            android:thumb="@android:color/transparent"
+            android:progressDrawable="@drawable/story_seek_bar"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_story_profile"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="16dp"
+        app:srcCompat="@drawable/ic_profile_default"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ll_seek_bar" />
+
+    <TextView
+        android:id="@+id/tv_story_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="TextView"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/img_story_profile"
+        app:layout_constraintStart_toEndOf="@+id/img_story_profile"
+        app:layout_constraintTop_toTopOf="@+id/img_story_profile" />
+
+
+    <TextView
+        android:id="@+id/tv_story_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="3시간"
+        android:textColor="@color/silver_3"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/tv_story_name"
+        app:layout_constraintStart_toEndOf="@+id/tv_story_name"
+        app:layout_constraintTop_toTopOf="@+id/tv_story_name" />
+
+
+    <ImageView
+        android:id="@+id/img_story_main"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/feed_img_4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/ll_story_send"/>
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/ll_story_send"
+        app:layout_constraintStart_toEndOf="@+id/ll_story_send"
+        app:layout_constraintTop_toTopOf="@id/ll_story_send"
+        app:srcCompat="@drawable/ic_heart_white" />
+
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView6"
+        app:layout_constraintStart_toEndOf="@+id/imageView6"
+        app:layout_constraintTop_toTopOf="@+id/imageView6"
+        app:srcCompat="@drawable/ic_share_white" />
+
+    <LinearLayout
+        android:id="@+id/ll_story_send"
+        android:layout_width="300dp"
+        android:layout_height="43dp"
+        android:orientation="vertical"
+        android:layout_marginBottom="20dp"
+        android:layout_marginStart="15dp"
+        android:background="@drawable/round_white_conner"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <EditText
+            android:id="@+id/edt_message"
+            android:layout_width="wrap_content"
+            android:layout_height="43dp"
+            android:layout_marginStart="20dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:textSize="13sp"
+            android:hint="메시지 보내기"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

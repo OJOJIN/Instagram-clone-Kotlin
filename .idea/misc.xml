@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable-v24/button_background_1.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3185" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/bottom_navi_home_ic.xml" value="0.3185" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/bottom_navi_profile_ic.xml" value="0.25" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/bottom_navi_reels_ic.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/bottom_navi_search_ic.xml" value="0.25" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/bottom_navi_shop_ic.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_hamburger.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_home_o.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_home_x.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_launcher_background.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_plus.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_postgrid.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_reels_o.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_reels_x.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_search_o.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_search_x.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_shop_o.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/drawable/ic_shop_x.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/layout/activity_profile_edit.xml" value="0.22" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/layout/fragment_home.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/layout/fragment_reels.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/ojy10/StudioProjects/BottomNavigation Template/app/src/main/res/menu/bottom_navi.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable-v24/button_background_.xml" value="0.2985" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable-v24/button_background_1.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable-v24/button_background_2.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable-v24/button_background_3.xml" value="0.2985" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable-v24/item_background.xml" value="0.2985" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/bottom_navi_profile_ic.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/bottom_navi_reels_ic.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/bottom_navi_search_ic.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/bottom_navi_shop_ic.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.198" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_bookmark.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_comment.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_empty_star.xml" value="0.1895" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_hamburger.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_heart.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_heart_white.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_home_o.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_home_x.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_instagram_text_logo.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_plus.xml" value="0.231" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_plus_3.xml" value="0.363" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_post_more_option.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_postgrid.xml" value="0.363" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_profle_story_nt.xml" value="0.25" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_reels_o.xml" value="0.1895" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_reels_x.xml" value="0.231" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_search_o.xml" value="0.1545" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_search_x.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_share.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_share_white.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_shop_o.xml" value="0.189" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_shop_x.xml" value="0.25" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_story_add.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/ic_story_border.xml" value="0.3195" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/round_conner.xml" value="0.363" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/round_white_conner.xml" value="0.295" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/select_color_icon.xml" value="0.192" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/drawable/story_seek_bar.xml" value="0.201" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/activity_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/activity_profile_edit.xml" value="0.25" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/activity_sign_email.xml" value="0.2419837537409149" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/activity_sign_id.xml" value="0.19" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/activity_sign_name.xml" value="0.1" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/activity_sign_pw.xml" value="0.2419837537409149" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/activity_story.xml" value="0.25" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/activity_story2.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/feed_rv_item.xml" value="0.25" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_profile.xml" value="0.21" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_profile_another_feed.xml" value="0.2599401453612655" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_profile_my_feed.xml" value="0.14" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_reels.xml" value="0.15177426250534418" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_search.xml" value="0.11" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_shop.xml" value="0.15177426250534418" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_sign_in_email.xml" value="0.22" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_sign_in_phone.xml" value="0.15177426250534418" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/fragment_sign_last.xml" value="0.15177426250534418" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/login_page.xml" value="0.18" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/profile_story_add_hl.xml" value="0.15946985891406584" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/profile_story_add_hl1.xml" value="0.29713552800342025" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/profile_story_hl.xml" value="0.29713552800342025" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/profile_story_hl1.xml" value="0.15946985891406584" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/story_rv_add_item.xml" value="0.18" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/layout/story_rv_item.xml" value="0.22" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/menu/bottom_navi.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.202" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/drawable-v24/button_background_1.xml" value="0.363" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/drawable/bottom_navi_profile_ic.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/drawable/ic_home_x.xml" value="0.193" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/activity_profile_edit.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/feed_rv_item.xml" value="0.14" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/fragment_profile.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/fragment_search.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/fragment_shop.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/peed_rv_item.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/ojy10/StudioProjects/Instagram_clone_2_3week/app/src/main/res/layout/story_rv_item.xml" value="0.18489583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
